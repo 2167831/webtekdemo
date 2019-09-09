@@ -1,0 +1,133 @@
+body{
+	/*background-color: #25274d;*/
+	color: white;
+	background-image: url(blue.jpg); 
+}
+
+img{
+	border-radius: 20px;
+	float: left;
+	margin:0px;
+	filter: brightness(80%);
+}
+
+h1.name{
+	margin-left: 20%;
+	color: #A9A9A9;
+	width: 70%;
+	border:solid;
+	border-radius: 10px;
+	padding: 20px;
+	border-color: #29648a;
+	/*background-color: #464866;*/
+
+}
+h3.course{
+	margin-left: 20%;
+	color: #A9A9A9;
+	width: 70%;
+	border:solid;
+	border-radius: 10px;
+	padding: 20px;
+	border-color: #29648a;
+	/*background-color: #464866;*/
+}
+.navbar{
+	margin-left: 20%;
+}
+.info {
+	width: 40%;
+	border:solid;
+	border-radius: 10px;
+	padding: 20px;
+	margin-top:30px;
+	border-color: #29648a;
+	color: #A9A9A9;
+}
+a{
+ 	margin-right:20px;
+  	padding: 10px;
+  	font-size: 17px;
+  	border-radius: 8px;
+  	overflow: hidden;
+  	background-color: #464866;
+   	color: #A9A9A9;
+   	border:solid;
+   	border-color: #29648a;
+  	text-decoration: none;
+}
+a:hover{
+	background-color: #2e9cca;
+}
+
+p, .hello{
+	width: 42%;
+	border:solid;
+	border-radius: 10px;
+	padding: 20px;
+	border-color: #29648a;
+	color: #A9A9A9;
+	margin-left: 600px;
+	
+}
+
+.expr{
+	margin-left: 1%;
+	color: #A9A9A9;
+	width: 92%;
+	border:solid;
+	border-radius: 10px;
+	padding: 10px;
+	border-color: #29648a;
+	margin-bottom: -2px;
+}
+.expr_next{
+	margin-left: 1%;
+	color: #A9A9A9;
+	width: 92%;
+	border:solid;
+	border-radius: 10px;
+	padding: 10px;
+	border-color: #29648a;
+}
+
+.edu{
+	margin-left: 1%;
+	color: #A9A9A9;
+	width: 92%;
+	border:solid;
+	border-radius: 10px;
+	padding: 10px;
+	border-color: #29648a;
+	margin-bottom: -2px;
+}
+.edu_next{
+	margin-left: 1%;
+	color: #A9A9A9;
+	width: 92%;
+	border:solid;
+	border-radius: 10px;
+	padding: 10px;
+	border-color: #29648a;
+}
+
+.skill{
+	margin-left: 1%;
+	color: #A9A9A9;
+	width: 92%;
+	border:solid;
+	border-radius: 10px;
+	padding: 10px;
+	border-color: #29648a;
+	margin-bottom: -2px;
+}
+.skill_next{
+	margin-left: 1%;
+	color: #A9A9A9;
+	width: 92%;
+	border:solid;
+	border-radius: 10px;
+	padding: 10px;
+	border-color: #29648a;
+}
+

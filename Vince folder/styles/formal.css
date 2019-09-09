@@ -1,0 +1,164 @@
+
+body{
+	background-image: url(../images/background.jpg);
+}
+	
+img{
+  width:250px;
+  height:250px;
+  border-radius: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.myport{
+	text-align:center;
+	font-family: Courier New;
+	text-decoration: underline;
+	font-size: 35px;
+	 color:#0B2161;
+}
+	
+div.myport:hover, div.myport:active {
+	text-shadow: 5px 2px 5px #F5BCA9;
+
+}
+
+div.Name{
+	text-align:center;
+	font-family: Arial Narrow;
+	font-size: 20px;
+}
+
+div.profession{
+	text-align:center;
+	font-family: Arial Narrow;
+}
+
+div.skills{
+	text-align:left;
+	font-family: Arial Narrow;
+}
+
+.personal{
+	font-family: Arial Narrow;
+	text-decoration: underline;
+	color:#0B2161;
+	text-shadow: 1px 1px 2px white, 0 0 25px #0B2161, 0 0 1px black;
+
+}
+
+hr{
+	display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right:10px;
+  border-style: inset;
+  border-width: 1px;
+}
+
+#locimg{
+	float:left;
+	width:35px;
+	height:35px;
+}
+#mesimg{
+	float:left;
+	width:35px;
+	height:35px;
+
+}
+
+#imgico{
+	float:left;
+	width:35px;
+	height:35px;
+}
+#perpro{
+	font-family: Courier New;
+
+}
+
+#loc{
+	font-family: Courier New;
+}
+
+#mes{
+	font-family: Courier New;
+	
+}
+
+#img{
+	font-family: Courier New;
+}
+
+div.left{
+	float: left;
+	width: 300px;
+	background-color: #F5BCA9;
+	border-radius: 20px;
+  	padding-top: -15px;
+  	padding-left: 10px;
+  	width: 330px;
+  	height: 620px;
+  	opacity:0.65; 
+}
+
+div.left:hover, div.left:active{
+	box-shadow: 10px 10px 3px grey;	
+}
+
+div.middle{
+	width: auto;
+	height: auto;
+}
+
+.column{
+	float: right;
+	padding-right: auto;
+	width: 37%;
+	font-family: Arial Narrow;
+	color:#0B2161;
+	text-shadow: 1px 1px 4px #2E2E2E, 0 0 5px #F5BCA9, 0 0 1px black;
+
+}
+
+.exp{
+	font-family: Courier New;
+	text-decoration: underline;
+	color:#F5BCA9;
+	background-color: black;
+	border-radius: 0px;
+  	padding-top: -15px;
+  	padding-left: 10px;
+  	width: 440px;
+  	height: 100px;
+  	opacity:0.65;
+  	font-size: 18px;
+}
+
+.skillsName{
+	font-family: Arial;
+	color:white;
+}
+* {box-sizing: border-box}
+
+.container {
+  width: auto;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: black;
+}
+
+.html {width: 75%; background-color: #4CAF50;}
+.css {width: 50%; background-color: #2196F3;}
+.prog {width: 45%; background-color: #f44336;}
+.lead {width: 80%; background-color: #808080;}
+}
